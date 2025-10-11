@@ -1,0 +1,7 @@
+{
+  "name": "Reflecta",
+  "description": "An anonymous mental health platform where users can write journals, record voice notes, and connect with others who share similar emotions. It’s a safe digital space for self-expression, reflection, and emotional healing — designed to reduce stress and promote mental well-being.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
